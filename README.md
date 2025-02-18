@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ทินภัทร ศรีวิชัย
+# STUDENT ID: 670610695
